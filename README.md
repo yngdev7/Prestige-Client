@@ -38,7 +38,7 @@ Whether you play alone or with friends, **Minecraft PvP Client** gives you a fas
 
 ---
 
-## Minecraft PvP Client Installation Guide
+## Prestige Client Installation Guide
 
 ### Requirements
 
